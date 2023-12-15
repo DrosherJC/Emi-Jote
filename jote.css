@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+  height: 100vh;
+  margin: 0;
+  
+}
+img{
+    
+    border: 2px solid #000;
+    border-radius: 50%;
+    transform: rotate(90deg);
+    max-width: 200px;
+  
+}
+.card{
+    text-align: center;
+    border: 1px solid #000;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    font-size: 30px;
+}
